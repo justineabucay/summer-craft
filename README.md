@@ -1,6 +1,6 @@
 welcome to summer-craft ! 
 
-before you start, please download the essential installer and make sure to install 1.21.5 Fabric Essential (i.e., the latest verson).
+before you start, please download the essential installer (https://essential.gg/downloads) and make sure to install 1.21.5 Fabric Essential (i.e., the latest verson).
 
 from there, find the Fabric Essential folder and drop all the mod files into the "mods" folder. finally, relaunch your Minecraft.
 
